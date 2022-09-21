@@ -2,7 +2,7 @@
   "postagens": [
     {
       "id": 1,
-      "title": "Post 1"
+      "titulo": "Post 1"
     },
     {
       "id": 2,
