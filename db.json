@@ -1,31 +1,82 @@
 {
-  "postagens": [
-    {
-      "id": 1,
-      "titulo": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+	"cidades": [
+		{
+			"id": 1,
+			"titulo": "Rio de Janeiro"
+		},
+		
+		{
+			"id": 2,
+			"titulo": "Brasília"
+		},
+		
+		{
+			"id": 3,
+			"titulo": "Salvador"
+		},
+
+		{
+			"id": 4,
+			"titulo": "Curitiba"
+		},
+		
+		{
+			"id": 5,
+			"titulo": "Manaus"
+		},
+		
+
+]
+	"atracoes": [
+		{
+			"id": 1,
+			"titulo": "Cristo Redentor"
+			"id_cidade": 1
+			
+		},
+		
+		
+		{
+			"id": 2,
+			"titulo": "Praca dos Tres Poderes",
+			"id_cidade": 2
+		
+		},
+	
+		{
+			"id": 3,
+			"titulo": "Pelourinho",
+			"id_cidade": 3
+		
+		},
+		
+		{
+			"id": 4,
+			"titulo": "Jardim Botânico",
+			"id_cidade": 4
+		
+		},
+		
+		{
+			"id": 5,
+			"titulo": "Teatro Amazonas",
+			"id_cidade": 5
+		
+		},
+]		
+		
+	"perfil"
+		{
+			"id": 6,
+			"nome": "Davi Santos Ferrarez",
+			"idade": 22
+		},
+		
+	"visitas"
+		{
+			"id": 1,
+			"id_atracao": 1,
+			"id_perfil": 6,
+			"data": 29/09/2022
+		},
+		
