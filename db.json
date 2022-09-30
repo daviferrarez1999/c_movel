@@ -31,37 +31,37 @@
 		{
 			"id": 1,
 			"titulo": "Cristo Redentor"
-			"id_cidade": 1
-			
+			"descricao": 
+			"id_cidade": 1	
 		},
 		
 		
 		{
 			"id": 2,
 			"titulo": "Praca dos Tres Poderes",
+			"descricao":
 			"id_cidade": 2
-		
 		},
 	
 		{
 			"id": 3,
 			"titulo": "Pelourinho",
+			"descricao":
 			"id_cidade": 3
-		
 		},
 		
 		{
 			"id": 4,
 			"titulo": "Jardim Botânico",
+			"descricao":
 			"id_cidade": 4
-		
 		},
 		
 		{
 			"id": 5,
 			"titulo": "Teatro Amazonas",
+			"descricao":
 			"id_cidade": 5
-		
 		},
 ]		
 		
@@ -69,7 +69,9 @@
 		{
 			"id": 6,
 			"nome": "Davi Santos Ferrarez",
-			"idade": 22
+			"idade": 22,
+			"sexo": "Masculino",
+			"data_de_nascimento: 20121999
 		},
 		
 	"visitas"
@@ -77,6 +79,7 @@
 			"id": 1,
 			"id_atracao": 1,
 			"id_perfil": 6,
+			"comentarios":
 			"data": 29092022
 		},
 		
