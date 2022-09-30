@@ -7,7 +7,7 @@
 		
 		{
 			"id": 2,
-			"titulo": "Brasília"
+			"titulo": "Sao Paulo"
 		},
 		
 		{
@@ -30,37 +30,37 @@
 	"atracoes": [
 		{
 			"id": 1,
-			"titulo": "Cristo Redentor"
-			"descricao": "Estatua de Jesus Cristo, marco cultural situado no Rio de Janeiro, com vista para a Cidade Maravilhosa e acessivel por trem"
+			"titulo": "Cristo Redentor",
+			"descricao": "Estatua de Jesus Cristo com 48 metros de altura, marco cultural com vista para a Cidade Maravilhosa e acessivel por trem",
 			"id_cidade": 1	
 		},
 		
 		
 		{
 			"id": 2,
-			"titulo": "Praca dos Tres Poderes",
-			"descricao":
+			"titulo": "Parque do Ibirapuera",
+			"descricao": "Centro paulistano de cultura e lazer, que conta com museus, planetario, auditorios, ciclovias e quadras",
 			"id_cidade": 2
 		},
 	
 		{
 			"id": 3,
 			"titulo": "Pelourinho",
-			"descricao":
+			"descricao": "Bairro com ruas estreitas de paralelepipedo que contem lojas de souvenirs afro-baianos, bares, restaurantes, museus, teatros, igrejas e pracas cheias de musicos e dancarinos, com destaque para o grupo Olodum",
 			"id_cidade": 3
 		},
 		
 		{
 			"id": 4,
-			"titulo": "Jardim Botânico",
-			"descricao":
+			"titulo": "Jardim Botanico",
+			"descricao": "Jardim com inumeros vegetais do Brasil e de outros paises, que possui uma estufa, um espaco cultural, museu botanico e jardim das sensacoes, que e um local onde os visitantes tem seus sentimentos tentados, atraves do contato direto com plantas de diferentes formas, texturas e aromas",
 			"id_cidade": 4
 		},
 		
 		{
 			"id": 5,
 			"titulo": "Teatro Amazonas",
-			"descricao":
+			"descricao": "Teatro com estilo renascentista, eleito pela revista CARAS como uma das sete maravilhas brasileiras e tombado pelo IPHAN como Patrimonio Historico Nacional",
 			"id_cidade": 5
 		},
 ]		
@@ -79,7 +79,7 @@
 			"id": 1,
 			"id_atracao": 1,
 			"id_perfil": 6,
-			"comentarios":
+			"comentarios": "Vista magnifica para a cidade do Rio de Janeiro, obra majestosa e reconhecida ao redor do mundo. Excelente monumento!",
 			"data": 29092022
 		},
 		
