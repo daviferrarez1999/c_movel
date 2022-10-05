@@ -26,7 +26,7 @@
 		},
 		
 
-]
+],
 	"atracoes": [
 		{
 			"id": 1,
@@ -63,9 +63,9 @@
 			"descricao": "Teatro com estilo renascentista, eleito pela revista CARAS como uma das sete maravilhas brasileiras e tombado pelo IPHAN como Patrimonio Historico Nacional",
 			"id_cidade": 5
 		},
-]		
+],		
 		
-	"perfil"
+	"perfil": [
 		{
 			"id": 6,
 			"nome": "Joao da Silva",
@@ -74,7 +74,8 @@
 			"data_de_nascimento": 20121981
 		},
 		
-	"visitas"
+],		
+	"visitas": [
 		{
 			"id": 1,
 			"id_atracao": 1,
@@ -83,3 +84,4 @@
 			"data": 29092022
 		},
 		
+]}
